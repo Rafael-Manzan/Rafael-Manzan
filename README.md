@@ -52,21 +52,6 @@ Para o desenvolvimento de aplicações web robustas no lado do cliente, já apli
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Manzan&theme=gotham&hide_border=false" alt="Streak Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Manzan&layout=compact&langs_count=7&theme=gotham&hide_border=false" alt="Top Languages" />
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Rafael-Manzan/Rafael-Manzan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
