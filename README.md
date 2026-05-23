@@ -1,175 +1,81 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        BANNER / HEADER                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="sakura.svg" width="100%" alt="Banner Rafael Manzan"/>
-
-![badge](https://img.shields.io/badge/JAVASCRIPT%20DEVELOPER-0d1b2a?style=for-the-badge&logo=javascript&logoColor=58a6ff&labelColor=0d1b2a&color=0d1b2a)
-
-# Rafael Manzan
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=600&lines=Técnico+em+Informática+para+Internet;JavaScript+Developer+em+evolução;Focado+em+desenvolvimento+Web;Construindo+o+futuro+linha+por+linha.)](https://git.io/typing-svg)
-
-<br/>
-
-![SENAI](https://img.shields.io/badge/SENAI-Técnico-30363d?style=flat-square&labelColor=161b22)
-![Status](https://img.shields.io/badge/Status-Estudando_e_evoluindo-58a6ff?style=flat-square&labelColor=161b22)
-![Foco](https://img.shields.io/badge/Foco-Desenvolvimento_Web-30363d?style=flat-square&labelColor=161b22)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Rafael+Manzan+👋;Desenvolvedor+Web+em+formação+🚀;JavaScript+%7C+HTML+%7C+CSS+💻)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        SOBRE MIM                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 🚀 Sobre Mim
 
-## 👨‍💻 Sobre Mim
+Sou estudante do curso **Técnico em Informática para Internet** e estou focado no desenvolvimento Web. Atualmente, tenho um domínio sólido da base do **JavaScript**, criando aplicações dinâmicas e estruturadas, e estou expandindo meus horizontes para o ecossistema fullstack.
 
-Sou estudante do curso **Técnico em Informática para Internet**, com foco em **desenvolvimento Web**. Tenho domínio sólido da base do **JavaScript** — criando aplicações dinâmicas, estruturadas e orientadas à experiência do usuário — enquanto expando meu conhecimento para o ecossistema **fullstack**.
+- 🎓 Estudando desenvolvimento web, arquitetura de redes e banco de dados.
+- 💻 Atualmente focado em aprofundar em JavaScript, HTML e CSS.
+- ⚡ Curiosidade: Adoro resolver problemas de lógica e otimizar funções no JS.
 
-Acredito que tecnologia é uma ferramenta de transformação, e estou comprometido em crescer continuamente como desenvolvedor.
+---
 
-```js
-const rafael = {
-  curso:       "Técnico em Informática para Internet — SENAI",
-  foco:        ["Desenvolvimento Web", "JavaScript", "Fullstack"],
-  estudando:   ["Arquitetura de Redes", "Banco de Dados", "IA"],
-  mentalidade: "Aprendizado constante, código limpo, evolução diária.",
-};
-```
+## 🛠️ Tecnologias e Ferramentas
 
-<br/>
+### 💻 Front-end & Lógica
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TECNOLOGIAS E FERRAMENTAS                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🛠️ Tecnologias & Ferramentas
+### 🧰 Ferramentas & Produtividade
 
-<div align="center">
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Linguagens & Front-end
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🧠 No JavaScript, eu já domino:
 
-### Ferramentas & Versionamento
+Para o desenvolvimento de aplicações web robustas no lado do cliente, já aplico com confiança:
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Manipulação Avançada do DOM:** Criação de interfaces dinâmicas e interativas sem depender de frameworks.
+- **Métodos Modernos de Array:** Uso fluído de `.map()`, `.filter()`, `.reduce()`, `.find()` e iterações.
+- **Consumo de APIs (Assincronismo):** Requisições utilizando `Fetch API`, `async/await` e tratamento de erros com `try/catch`.
+- **Armazenamento Local:** Persistência de dados leve com `LocalStorage` e `SessionStorage`.
 
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   HABILIDADES EM JAVASCRIPT                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⚡ JavaScript — O que já domino
-
-Para o desenvolvimento de aplicações web no lado do cliente, já aplico com confiança:
-
-| Habilidade | Descrição |
-|:---|:---|
-| 📌 **Manipulação do DOM** | Interfaces dinâmicas e interativas sem dependência de frameworks |
-| 🔄 **Métodos de Array** | `.map()` `.filter()` `.reduce()` `.find()` e outros |
-| 🌐 **Consumo de APIs** | Requisições com `Fetch API`, `async/await` e `try/catch` |
-| 💾 **Armazenamento Local** | Persistência de dados com `LocalStorage` e `SessionStorage` |
-| 🧠 **Lógica de Programação** | Estruturas de controle, funções e resolução de problemas |
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       PROJETOS                              -->
-<!-- Substitua os links e descrições pelos seus projetos reais   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## 📁 Projetos em Destaque
 
-> 🚧 Projetos desenvolvidos durante o curso técnico chegando em breve...
+### 1. 📦 Controle de Estoque
+**Descrição:** Uma aplicação de controle de estoque que interage diretamente com o usuário.
 
-<!--
-Quando tiver projetos, use o modelo abaixo para cada um:
-
-### [Nome do Projeto](link-do-repositorio)
-> Descrição breve e objetiva do que o projeto faz.
-
-**Stack:** JavaScript · HTML · CSS · LocalStorage
+- **O que usei:** JavaScript Vanilla, Manipulação do DOM, JS POO.
 
 ---
--->
 
-<br/>
+## 📊 Estatísticas do GitHub
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ESTATÍSTICAS GITHUB                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Manzan&theme=gotham&hide_border=false" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Manzan&layout=compact&langs_count=7&theme=gotham&hide_border=false" alt="Top Languages" />
+</div>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Manzan&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Manzan&layout=compact&langs_count=6&theme=gotham&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Rafael-Manzan&theme=gotham&hide_border=true" alt="GitHub Streak"/>
+![Snake animation](https://raw.githubusercontent.com/Rafael-Manzan/Rafael-Manzan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     OBJETIVOS FUTUROS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 📫 Vamos nos conectar?
 
-## 🎯 Próximos Passos
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
 
-```
-[ ] Dominar o ecossistema fullstack (Node.js, React)
-[ ] Construir projetos reais e publicá-los no GitHub
-[ ] Contribuir com projetos open source
-[ ] Conquistar meu primeiro estágio em tecnologia
-[ ] Aprofundar conhecimentos em Banco de Dados e Redes
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        CONTATO                              -->
-<!-- Substitua os links pelos seus dados reais                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📫 Contato
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rafael-almeida-manzan-39695b3b2">
-  <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Manzan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:rafa.a.manzan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rafa.a.manzan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:0d1117,100:010409&height=100&section=footer" width="100%"/>
-
-<sub>Desenvolvido com foco, dedicação e muito JavaScript ⚡</sub>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rafael-Manzan.Rafael-Manzan)
 
 </div>
