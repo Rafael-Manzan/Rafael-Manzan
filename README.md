@@ -1,6 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6dff,100:00cfff&height=200&section=header&text=Rafael%20Manzan&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Web%20em%20formação%20🚀&descAlignY=55&descSize=18" />
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Rafael+Manzan+👋;Desenvolvedor+Web+em+formação+🚀;JavaScript+%7C+HTML+%7C+CSS+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Rafael+Manzan+👋;Desenvolvedor+Web+em+formação+🚀;JavaScript+%7C+HTML+%7C+CSS+💻)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,3 +71,5 @@ Para o desenvolvimento de aplicações web robustas no lado do cliente, já apli
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif" alt="Garchomp" width="160"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:1a6dff&height=150&section=footer" />
