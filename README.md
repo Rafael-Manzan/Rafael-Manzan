@@ -63,7 +63,7 @@ Para o desenvolvimento de aplicações web robustas no lado do cliente, já apli
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rafael-Manzan.Rafael-Manzan)
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="Charizard" width="100"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/306.gif" alt="Aggron" width="100"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="Charizard" width="160"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/306.gif" alt="Aggron" width="160"/>
 
 </div>
